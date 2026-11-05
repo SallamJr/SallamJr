@@ -15,7 +15,7 @@ I build cross-platform mobile apps with Flutter and Dart, with production experi
 - 🏗️ Focused on **Clean Architecture**, MVVM, and SOLID principles to keep codebases modular and testable
 - 🔄 Experienced with **Bloc/Cubit** state management, RESTful API integration, and Firebase
 - ⚡ Performance-minded: profiling with Flutter DevTools to reduce startup time and memory usage
-- 🏅 Ranked 14th on CoderHub
+- 🏅 Ranked 21st on CoderHub
 - 📚 Currently deepening my skills in advanced Flutter patterns and exploring .NET and back-end technologies
 - 🤝 Open to freelance projects and to collaborating with teams that value clean code and knowledge-sharing
 ---
