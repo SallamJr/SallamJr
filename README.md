@@ -8,7 +8,7 @@ I build cross-platform mobile apps with Flutter and Dart, with production experi
  
 ## 🚀 About Me
  
-- 💼  Flutter developer at **IT-Cores Software Company** (2024–2025), delivering production apps for clients
+- 💼  Flutter developer at **IT-Cores Software Company** , delivering production apps for clients
 - 🏗️ Focused on **Clean Architecture**, MVVM, and SOLID principles to keep codebases modular and testable
 - 🔄 Experienced with **Bloc/Cubit** state management, RESTful API integration, and Firebase
 - ⚡ Performance-minded: profiling with Flutter DevTools to reduce startup time and memory usage
@@ -54,8 +54,8 @@ I build cross-platform mobile apps with Flutter and Dart, with production experi
  
 ## 🎓 Education
  
-- **B.Eng., Computers & Communications Engineering**, Mansoura University (2024)
-- **Flutter Mobile Applications Development**, 4-month intensive code camp, Information Technology Institute (ITI) (2023)
+- **B.Eng., Computers & Communications Engineering**, Mansoura University 
+- **Flutter Mobile Applications Development**, 4-month intensive code camp, Information Technology Institute (ITI) 
 ---
  
 ## 📊 GitHub Stats
