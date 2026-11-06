@@ -1,6 +1,8 @@
-# Hi, I'm Ahmed Sallam 👋
+ Hi, I'm Ahmed Sallam 👋
  
-** Flutter Developer** · Computers & Communications Engineering graduate
+ Flutter Developer ·
+ 
+ Computers & Communications Engineering graduate .
  
 I build cross-platform mobile apps with Flutter and Dart, with production experience in fintech, investment, and home-service products.
  
